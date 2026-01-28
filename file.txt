@@ -1,1 +1,3 @@
-Line 001 in main
+New commit!
+Line <conflict>
+Conflito resolvido!
