@@ -1,1 +1,3 @@
-New commit!New Line 
+New commit!
+Line <conflict>
+
